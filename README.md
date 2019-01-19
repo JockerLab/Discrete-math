@@ -1,2 +1,2 @@
 # Discrete-math
-Laboratory work in discrete mathematics
+Laboratory works in discrete mathematics
